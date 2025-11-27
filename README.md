@@ -151,7 +151,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2025-05-29 192729](https://github.com/user-attachments/assets/027c551e-353f-4983-add3-4077d57760a0)
+<img width="1919" height="871" alt="Screenshot 2025-05-24 093650" src="https://github.com/user-attachments/assets/ea12ab5e-e2f0-44bb-9765-75afde76a567" />
 
 
 ## RESULT
