@@ -27,7 +27,7 @@ Execute the program using runserver command.
 !DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - SANTHOSH (212224040294)</title>
+    <title>SLOT TIME TABLE -  Guru Prasath K M (212224230079)</title>
     <style>
         table {
             border-collapse: collapse;
@@ -151,7 +151,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="1919" height="871" alt="Screenshot 2025-05-24 093650" src="https://github.com/user-attachments/assets/ea12ab5e-e2f0-44bb-9765-75afde76a567" />
+<img width="1856" height="926" alt="image" src="https://github.com/user-attachments/assets/92737484-cd51-43f9-addf-ef17da9a3f4e" />
 
 
 ## RESULT
